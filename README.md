@@ -4,7 +4,7 @@
 
 ### 💻 Complete Software Engineer | Agentic AI & B2B Workflows
 
-🚀 Building full-stack applications, **Agentic AI** systems, and **B2B workflows**  
+🚀 Building full-stack applications, **Agentic AI** systems, and **N8N workflows**  
 🏢 Working at **Saylani Welfare** · 📍 Zaitoon Ashraf IT Park
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://github.com/MuhammadAyanSheikh786/portfolio)
