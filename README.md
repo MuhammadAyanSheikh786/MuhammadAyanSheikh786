@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/B2B_Workflows-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/N8N_Workflows-0EA5E9?style=for-the-badge" />
 </p>
 
 ---
