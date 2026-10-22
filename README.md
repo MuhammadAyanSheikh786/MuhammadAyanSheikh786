@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Muhammad Ayan
 
-### 💻 Web & App Engineer | Full-Stack Developer in Progress
+### 💻 Complete Software Engineer | Agentic AI & B2B Workflows
 
-🌱 Currently leveling up my skills to become a **Senior Developer**  
+🚀 Building full-stack applications, **Agentic AI** systems, and **B2B workflows**  
 🏢 Working at **Saylani Welfare** · 📍 Zaitoon Ashraf IT Park
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://github.com/MuhammadAyanSheikh786/portfolio)
@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/B2B_Workflows-0EA5E9?style=for-the-badge" />
 </p>
 
 ---
@@ -61,13 +63,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Link |
 |--------|-------------|------|
-| **[Portfolio](https://github.com/MuhammadAyanSheikh786/portfolio)** | Personal portfolio website | HTML, CSS, JS |
-| **[Nike Clone](https://github.com/MuhammadAyanSheikh786/nike-clone)** | E-commerce Nike website clone | HTML, CSS |
-| **[Iqbal Food](https://github.com/MuhammadAyanSheikh786/Iqbal-food)** | Food ordering application | TypeScript |
-| **[Jhoolaylaal Al-Balushi Transport](https://github.com/MuhammadAyanSheikh786/Jhoolaylaal-Al-Balushi-Transport)** | Transport service website | JavaScript |
-| **[Smart Home Automation](https://github.com/MuhammadAyanSheikh786/Smart-home-Automation-Arduino-Code)** | Arduino-based home automation | C++ |
+| **[Arcure Pharma](https://github.com/MuhammadAyanSheikh786/arcurepharma)** | Pharma website & platform | [GitHub](https://github.com/MuhammadAyanSheikh786/arcurepharma) |
+| **[Restaurant Website](https://reasturant-website.vercel.app/)** | Modern restaurant website | [Live Demo](https://reasturant-website.vercel.app/) |
+| **[CVForge](https://www.cvforge.cyou)** | CV / Resume builder platform | [Live Demo](https://www.cvforge.cyou) |
+| **[Miftah Al Quran](https://www.miftahalquran.online/)** | Quran learning & reading platform | [Live Demo](https://www.miftahalquran.online/) |
+| **[Smart Automation Voice Control](https://github.com/MuhammadAyanSheikh786/Smart-Automation-Voice-control)** | Voice-controlled smart automation system | [GitHub](https://github.com/MuhammadAyanSheikh786/Smart-Automation-Voice-control) |
 
 ---
 
